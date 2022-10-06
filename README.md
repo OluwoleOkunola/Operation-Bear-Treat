@@ -9,8 +9,10 @@ This project features an arms dealer who has been financing terrorist attacks to
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>Nmap</b> 
+- <b>Python</b>
+- <b>Metasploit</b>
+- <b>Reverse Shell</b>
 
 <h2>Environments Used </h2>
 
